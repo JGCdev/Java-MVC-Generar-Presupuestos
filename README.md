@@ -1,4 +1,4 @@
-# Aplicación JAVA MVC
+# Aplicación de Gestión
 Aplicación Java con patrón MVC y login contra bases de datos SQL. Dedicada a la gestión de clientes, empleados y proyectos. Imprime presupuestos con numeración automática en PDF. 
 La aplicación guarda los datos serializados en un fichero .bin, permitiendo al usuario cargar el mismo fichero desde cualquier ubicación.
 
