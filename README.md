@@ -13,7 +13,9 @@ Proyecto realizado con el objetivo de servir como base para una aplicación más
 
 
 Detalle menú de la aplicación
+
 ![alt text](https://github.com/JGCdev/Java-MVC-Print-Budgets/blob/master/src/imagenes/readme/gestion-menu.png)
 
 Formato de documento en PDF
+
 ![alt text](https://github.com/JGCdev/Java-MVC-Print-Budgets/blob/master/src/imagenes/readme/pdf.png)
